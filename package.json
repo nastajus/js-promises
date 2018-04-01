@@ -1,0 +1,11 @@
+{
+  "name": "js-promises",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=g90irqWEqd8 (Async JavaScript with Promises)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Nastajus <ian.nastajus@gmail.com> (http://nastajus.com)",
+  "license": "ISC"
+}
