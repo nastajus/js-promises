@@ -9,6 +9,7 @@
   "author": "Ian Nastajus <ian.nastajus@gmail.com> (http://nastajus.com)",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.3",
     "xhr": "^2.4.1"
   }
 }
